@@ -1,6 +1,7 @@
 # furniture_app
 
-A new Flutter project.
+Tutorial by The Flutter Way.
+- Flutter : 1.22.6
 
 ## Getting Started
 
